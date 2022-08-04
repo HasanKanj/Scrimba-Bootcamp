@@ -1,0 +1,42 @@
+    html , body {
+        margin:0;
+        padding: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+    }
+     
+    label{
+            font-size: 30px;
+            font-weight: bold;
+
+    }
+
+    #searchInput{
+        font-size: 30px;
+    }
+
+
+    #search {
+        padding: 40px;
+        height:40px;
+        margin: 0 auto;
+        max-width: 600px;
+        position: relative;
+        border: 20px solid #ffbd07;
+    }
+
+    #results {
+        list-style-type: none;
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+        height: 100px;
+    }
+
+    .name{
+        border: 15px solid rgb(179, 134, 10);
+        font-size: 40px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+    }
+
